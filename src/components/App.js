@@ -5,7 +5,7 @@ class App extends React.Component {
     super(props);
     this.state = {
       name: "John Doe",
-      enrollmentNo: "12345678",
+      enrollmentNo: " 12345678",
       age: 34,
     };
   }
